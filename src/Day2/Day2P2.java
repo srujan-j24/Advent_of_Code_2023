@@ -16,7 +16,7 @@ public class Day2P2 {
         minCubemap.put("red", 0);
         minCubemap.put("green", 0);
         minCubemap.put("blue", 0);
-
+        //hi
         String input = null;
         try{
             Path path = Paths.get("src/Day2/day2.txt");
